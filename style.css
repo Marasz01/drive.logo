@@ -26,10 +26,12 @@
     right: 10px;
 }
 #drive #green{
-    background: ;
+    background: #10a862;
     display: block;
-    width: ;
-    height: ;
-    transform: skew();
+    width: 38px ;
+    height: 96px ;
+    transform: skew(150deg);
     position: absolute;
+    top: 0;
+    left: 9px;
 }
