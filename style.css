@@ -15,3 +15,21 @@
     top: 0;
     right: 19px;
 }
+#drive #blue{
+    background: #3f89f9;
+    display: block;
+    width: 74px;
+    height: 34px;
+    transform: skew(-30deg);
+    position: absolute;
+    bottom: 0;
+    right: 10px;
+}
+#drive #green{
+    background: ;
+    display: block;
+    width: ;
+    height: ;
+    transform: skew();
+    position: absolute;
+}
