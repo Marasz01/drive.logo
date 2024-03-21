@@ -1,0 +1,17 @@
+#drive
+{
+    width: 112px;
+    height: 96px;
+    position: relative;
+}
+
+#drive #yellow{
+    background: #fdd04a;
+    display: block;
+    width: 39px;
+    height: 62px;
+    transform: skew(30deg);
+    position: absolute;
+    top: 0;
+    right: 19px;
+}
